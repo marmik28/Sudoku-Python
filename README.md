@@ -15,6 +15,7 @@ A classic Sudoku game with a user-friendly graphical interface built using Pytho
 -Use the Reset button to clear the grid and start over.
 
 #Installation 🛠️
+
 -Clone the repository:
 ```
 git clone https://github.com/marmik28/Sudoku-Python.git
