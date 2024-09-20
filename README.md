@@ -1,27 +1,24 @@
-# Sudoku-Python
-A classic Sudoku game with a user-friendly graphical interface built using Python and tkinter. This project allows users to solve Sudoku puzzles interactively, either by manually solving them or letting the program solve it using a backtracking algorithm. The game includes features such as resetting the puzzle and solving the board automatically.
+# Sudoku Game 🧩
 
-# Features 🌟
--Interactive Sudoku grid with predefined puzzles.
--Input your own numbers or let the solver assist you.
--Simple and intuitive UI using the tkinter library.
--Built-in backtracking algorithm to solve the puzzle.
--Reset option to start over and try again.
+A simple and interactive Sudoku game built with Python and `tkinter`. You can either solve puzzles manually or let the program solve them using a backtracking algorithm.
 
-#How to Play 🎮
--Download the repository and run sudoku.py.
--Use the grid to input numbers where the cells are empty.
--Click the Solve button to solve the puzzle automatically.
--Use the Reset button to clear the grid and start over.
+## Features 🌟
+- 🔢 **Interactive Sudoku grid**: Input your numbers directly into the grid.
+- 🧠 **Automated puzzle solver**: Solve the Sudoku puzzle with a built-in backtracking algorithm.
+- 🌀 **Reset functionality**: Easily reset the puzzle to try again.
+- 🎨 **Clean UI**: Built with `tkinter` for an easy-to-use graphical interface.
 
-#Installation 🛠️
+## How to Play 🎮
+- 🟩 **Step 1**: Download and run the `sudoku.py` file.
+- 🟦 **Step 2**: Input numbers into empty cells (indicated by `0`).
+- 🟧 **Step 3**: Click the **Solve** button to automatically solve the puzzle.
+- 🟪 **Step 4**: Use the **Reset** button to clear the board and start over.
 
--Clone the repository:
-```
-git clone https://github.com/marmik28/Sudoku-Python.git
-```
+## Installation 🛠️
+1. Clone the repository:
+    ```bash
+   git clone https://github.com/yourusername/sudoku-game.git
+2. Run the script:
+   ```bash
+   python main.py
 
--Run the script: 
-```
-python main.py
-```
